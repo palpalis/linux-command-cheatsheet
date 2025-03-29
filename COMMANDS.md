@@ -34,12 +34,6 @@ log() {
 }
 ```
 
-```bash
-  ╭───╮ ╭───╮
-  │ █ │ │ █ │
-  ╰───╯ ╰───╯
-  ```
-
   ```bash
   # Sistem
 alias update='sudo apt update && sudo apt upgrade -y'
